@@ -37,7 +37,7 @@ import org.junit.runner.RunWith;
 @RunWith(Arquillian.class)
 public class MemberRegistrationTest {
 	
-	//testess123123
+	//globo
     @Deployment
     public static Archive<?> createTestArchive() {
         return ShrinkWrap.create(WebArchive.class, "test.war")
